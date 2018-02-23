@@ -642,7 +642,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #fff;
 }
 .intro H1 {
-	color : black;
+	color : #000000;
 	font-size: 60px;
 	font-weight: 500;
 	letter-spacing: -2px;
