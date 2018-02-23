@@ -639,7 +639,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	height: 100%;
 	padding: 0;
 	text-align: left;
-	color: #fff;
+	color: black;
 }
 .intro H1 {
 	color : #000000;
