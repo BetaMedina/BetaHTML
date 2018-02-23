@@ -172,7 +172,7 @@ hr {
 	height: auto;
 	padding: 100px 0;
 	text-align: center;
-	color: #fff;
+	color: #000000;
 	background: url(../img/cofe.jpg) no-repeat center top;
 	background-color: #7bc3d1;
 	-webkit-background-size: cover;
@@ -639,7 +639,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	height: 100%;
 	padding: 0;
 	text-align: left;
-	color: black;
+	color: #000000;
 }
 .intro H1 {
 	color : #000000;
